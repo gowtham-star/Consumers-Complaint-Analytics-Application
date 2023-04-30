@@ -38,5 +38,6 @@ To use the application, follow these steps:
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/29543544/235374725-c6002bde-652b-4263-b836-aa188a4e4345.png)
-![image](https://user-images.githubusercontent.com/29543544/235374737-3bd88a08-d367-47c4-8b8a-3b3e64983f0e.png)
+![image](https://user-images.githubusercontent.com/29543544/235374777-48a92338-d4db-403f-a623-f815cafecf11.png)
+
 
