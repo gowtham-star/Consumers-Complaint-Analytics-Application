@@ -37,7 +37,8 @@ To use the application, follow these steps:
 5. View the most frequent words associated with each topic using the word cloud visualization and coherence score of each model.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/29543544/235374725-c6002bde-652b-4263-b836-aa188a4e4345.png)
+![image](https://user-images.githubusercontent.com/29543544/235374815-5bf599ae-e9eb-402d-9fa9-e8cd3aee595a.png)
+![image](https://user-images.githubusercontent.com/29543544/235374842-e3c692f4-880e-4e09-91c1-e1ef6725e6aa.png)
 ![image](https://user-images.githubusercontent.com/29543544/235374777-48a92338-d4db-403f-a623-f815cafecf11.png)
 
 
