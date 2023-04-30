@@ -11,7 +11,7 @@ This software is designed to analyze large volumes of text data using topic mode
 
 The application offers the following features:
 
-Upload text data in various formats, including CSV, TXT, and JSON
+Upload text data in various formats, including CSV.
 Choose the number of topics to model and the specific algorithm to use (LDA, NMF, or LSA)
 Visualize the most frequent words associated with each topic using a word cloud
 Export topic modeling results and word cloud visualizations as CSV or image files
