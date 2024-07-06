@@ -1,5 +1,5 @@
-# Huge-Text-Analyzer
-Huge Text Analyzer using topic modeling techniques
+# Consumer Complains Analytics
+This application uses using topic modeling techniques
 
 This software is designed to analyze large volumes of text data using topic modeling techniques, including Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF), and Latent Semantic Analysis (LSA). It is particularly well-suited for analyzing customer complaints or other forms of feedback data to identify underlying issues and root causes.
 
